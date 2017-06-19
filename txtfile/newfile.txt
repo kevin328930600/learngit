@@ -1,4 +1,4 @@
 this is a first file in learngit
 this is the first modidy
 create a new branch is quick
-create a new new branch are dev
+create a new new branch is dev
